@@ -1,4 +1,4 @@
-# Projeto-Pratico
+# Projeto-Pratico-9
 
   No dia 13/12/2023, foi realizada a Aula Prática #9 no Laboratório de Sistemas Digitais do CCMN, UFRJ. Nela, foi realizado o seguinte experimento:
 
